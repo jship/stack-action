@@ -114,6 +114,8 @@ jobs:
       - uses: haskell/actions/hlint-run@v2
 ```
 
+dummy change to trigger CI
+
 ---
 
 [LICENSE](./LICENSE)
